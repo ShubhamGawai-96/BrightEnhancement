@@ -3,7 +3,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import Statistics from './Statistics';
-import about from "../assets/about.webp";
+import about from "/assets/about.webp";
 
 export default function About() {
   // Use the `useInView` hook to trigger animations when elements come into view

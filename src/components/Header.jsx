@@ -1,6 +1,6 @@
 // src/components/Header.jsx
 import React from 'react';
-import logo from '../assets/brightlogo.svg'
+import logo from '/assets/brightlogo.svg'
 
 export default function Header() {
   return (
